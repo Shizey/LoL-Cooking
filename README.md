@@ -10,7 +10,7 @@
 
 ## How to install it ❓
 
-First, you need to install Pengu Loader. Follow [this guide](https://pengu.lol/guide/installation) for detailed instructions. Then, download the plugin from the release section and drag the "lol-cooking" folder into your Pengu plugins.
+First, you need to install Pengu Loader. Follow [this guide](https://pengu.lol/guide/installation) for detailed instructions. Then, download the plugin from the [release](https://github.com/Shizey/LoL-Cooking/releases) section and drag the "lol-cooking" folder into your Pengu plugins.
 
 ## Planned Features 🚧
 - Add role selection with only random champions
