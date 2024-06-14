@@ -4,6 +4,7 @@
 
 ## Features ✨
 - Randomly selects champions: the first champion is completely random, and the second one is from the current priority role.
+- Random skin
 - Automatically generates runes for the current role using [deeplol.gg](https://www.deeplol.gg/).
 - Includes a reroll button to randomize champions and roles again.
 - The selected champions are hidden by default but can be revealed by pressing a button.
